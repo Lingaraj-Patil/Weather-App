@@ -8,7 +8,7 @@ function App() {
   const [loading,setLoading] = useState(false);
   const [error,setError] = useState(null);
 
-  const API_KEY = '3ab36f7e2c3095d5dc13f604514753e3';
+  const API_KEY = 'YOUR_API_KEY_OF_OpenWeather';
 
   const fetchWeatherData = async (city) => {
     setLoading(true)
