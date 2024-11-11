@@ -39,3 +39,6 @@ A responsive weather application built with React and styled using Tailwind CSS.
     ```bash
         npm run dev
     ```
+    ![Screenshot 2024-11-11 214851](https://github.com/user-attachments/assets/df6cbc15-a763-4929-818d-87914654e1f1)
+
+    
